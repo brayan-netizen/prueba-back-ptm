@@ -6,7 +6,7 @@ Este proyecto consiste en una API REST desarrollada en Java con Spring Boot que 
 
 ## ⚙️ Tecnologías utilizadas
 
--   **Java 17**
+-   **Java 24**
 -   **Spring Boot 3.x**
 -   **Spring Web**
 -   **Spring Data JPA**
